@@ -1,4 +1,6 @@
 site_name: Disaster Management & Rescue Unit
+site_url: https://pulakeshpradhan.github.io/disaster_management/
+repo_url: https://github.com/pulakeshpradhan/disaster_management
 theme:
   name: material
 
