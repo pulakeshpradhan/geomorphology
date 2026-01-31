@@ -1,0 +1,68 @@
+site_name: Disaster Management & Rescue Unit
+theme:
+  name: material
+
+  palette: 
+    - scheme: default
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+extra:
+  social:
+    - icon: material/printer
+      link: "javascript:window.print()" 
+      name: Print to PDF
+
+nav:
+  - Home: index.md
+  - Unit I - Concepts:
+    - Introduction: unit-1/index.md
+    - Concept of Hazards and Disasters: unit-1/concept-hazards-disasters.md
+    - Natural and Manmade Hazards: unit-1/natural-manmade-hazards.md
+    - Types of Hazards: unit-1/types-of-hazards.md
+    - Vulnerability and Risk: unit-1/vulnerability-risk.md
+    - Prevention, Mitigation, and Management: unit-1/prevention-mitigation.md
+    - 📝 Self Assessment (Questions): unit-1/questions.md
+  - Unit II - DM Cycle:
+    - Introduction: unit-2/index.md
+    - Pre-Disaster Planning: unit-2/pre-disaster-planning.md
+    - During Disaster Management: unit-2/during-disaster-management.md
+    - Post-Disaster Planning: unit-2/post-disaster-planning.md
+    - Community Based Preparedness: unit-2/community-preparedness.md
+    - Role of Stakeholders: unit-2/stakeholders.md
+    - 📝 Self Assessment (Questions): unit-2/questions.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+copyright: Prepared by Pulakesh Pradhan (PhD Scholar, Ravenshaw University)
