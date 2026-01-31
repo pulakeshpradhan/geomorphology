@@ -94,59 +94,39 @@
     display: none;
 }
 
-/* Custom Action Buttons (Geospatial Style) */
+/* Custom Action Buttons (Icon Only) */
 .custom-actions-container {
     display: flex;
-    gap: 12px;
+    gap: 15px;
     justify-content: flex-end;
-    margin-bottom: 25px;
-    padding-bottom: 15px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
     border-bottom: 1px solid var(--md-default-fg-color--lightest);
-    width: 100%;
 }
 
 .action-btn {
     display: flex !important;
     align-items: center;
-    gap: 8px;
-    padding: 8px 16px;
-    border-radius: 8px;
-    font-size: 0.85rem !important;
-    font-weight: 600;
+    justify-content: center;
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 1.2rem !important;
     text-decoration: none !important;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-}
-
-.source-btn {
-    background: #f5f5f5 !important;
-    color: #424242 !important;
-    border: 1px solid #e0e0e0;
-}
-
-.edit-btn {
-    background: var(--md-primary-fg-color) !important;
-    color: white !important;
+    transition: all 0.2s ease;
+    background: transparent;
+    color: #757575 !important;
 }
 
 .action-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-    filter: brightness(1.05);
-}
-
-.action-btn i {
-    font-size: 1rem;
+    color: var(--md-primary-fg-color) !important;
+    background: rgba(0, 150, 136, 0.1);
+    transform: scale(1.1);
 }
 
 @media (max-width: 600px) {
     .custom-actions-container {
-        justify-content: center;
-        flex-direction: column;
-    }
-
-    .action-btn {
-        justify-content: center;
+        justify-content: flex-end;
+        /* Keep them at the end even on mobile */
     }
 }
 
