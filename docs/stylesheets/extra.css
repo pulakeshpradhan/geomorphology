@@ -92,19 +92,48 @@
 }
 
 /* Custom Action Buttons (Source/Edit) */
+.custom-actions-container {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    flex-wrap: wrap;
+}
+
 .custom-action-btn {
-    color: #757575 !important;
-    transition: color 0.3s, transform 0.2s;
-    font-size: 1.4rem !important;
+    color: #616161 !important;
+    transition: all 0.2s ease;
+    font-size: 0.85rem !important;
     display: flex !important;
     align-items: center;
-    justify-content: center;
+    gap: 8px;
     text-decoration: none !important;
+    font-weight: 500;
+}
+
+.custom-action-btn i {
+    font-size: 1.1rem;
 }
 
 .custom-action-btn:hover {
     color: var(--md-primary-fg-color) !important;
+}
+
+.custom-action-btn:hover i {
     transform: scale(1.1);
+}
+
+@media (max-width: 480px) {
+    .custom-actions-container {
+        justify-content: flex-start;
+        gap: 15px;
+    }
+
+    .custom-action-btn span {
+        font-size: 0.75rem;
+    }
 }
 
 .md-content__button {
