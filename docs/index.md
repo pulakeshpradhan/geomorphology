@@ -37,19 +37,6 @@ Welcome to the Geomorphology study portal. This site covers the fundamental conc
 
 ---
 
-## 🤖 Geomorphology AI Assistant
-
-<div class="bot-card" style="background: linear-gradient(135deg, #2d1b14 0%, #5d4037 100%); border-radius: 15px; padding: 25px; display: flex; align-items: center; gap: 20px; border: 1px solid #ff9800; margin: 2rem 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <div style="font-size: 3rem;">🤖</div>
-    <div>
-        <h3 style="margin: 0; color: #ff9800;">Geomorphology Bot</h3>
-        <p style="margin: 10px 0; color: #cfd8dc;">Your personal AI guide for understanding landforms, fluvial processes, and tectonic landscapes. Ask me anything!</p>
-        <a href="#" style="display: inline-block; background: #ff9800; color: #fff; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 0.9rem; transition: transform 0.2s;">CHAT NOW</a>
-    </div>
-</div>
-
----
-
 ## Objective
 
 To provide a deep understanding of Geomorphology, the nature of landforms, and the physical processes that shape the Earth's surface through continuous interaction of geological and climatic forces.
