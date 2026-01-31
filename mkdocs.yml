@@ -36,19 +36,19 @@ extra:
 nav:
   - Home: index.md
   - Unit I - Geomorphic Processes:
-    - Introduction: unit-1/index.md
-    - Concept of Hazards and Disasters: unit-1/concept-hazards-disasters.md
-    - Natural and Manmade Hazards: unit-1/natural-manmade-hazards.md
-    - Types of Hazards: unit-1/types-of-hazards.md
-    - Vulnerability and Risk: unit-1/vulnerability-risk.md
-    - Prevention, Mitigation, and Management: unit-1/prevention-mitigation.md
+    - Geomorphic Processes and Landforms: unit-1/index.md
+    - Natural vs. Anthropogenic Influences: unit-1/concept-hazards-disasters.md
+    - Classification of Landforms: unit-1/natural-manmade-hazards.md
+    - Landform Categorization: unit-1/types-of-hazards.md
+    - Environmental Vulnerability: unit-1/vulnerability-risk.md
+    - Landscape Management: unit-1/prevention-mitigation.md
     - 📝 Self Assessment (Questions): unit-1/questions.md
   - Unit II - Landscape Evolution:
-    - Introduction: unit-2/index.md
-    - Pre-Disaster Planning: unit-2/pre-disaster-planning.md
-    - During Disaster Management: unit-2/during-disaster-management.md
-    - Post-Disaster Planning: unit-2/post-disaster-planning.md
-    - Community Based Preparedness: unit-2/community-preparedness.md
+    - Dynamic Earth Introduction: unit-2/index.md
+    - Geologic Time and Planning: unit-2/pre-disaster-planning.md
+    - Active Surface Processes: unit-2/during-disaster-management.md
+    - Post-Evolution Resilience: unit-2/post-disaster-planning.md
+    - Community Landscape Adaptation: unit-2/community-preparedness.md
     - Role of Stakeholders: unit-2/stakeholders.md
     - 📝 Self Assessment (Questions): unit-2/questions.md
 

@@ -18,20 +18,20 @@ Welcome to the Geomorphology study portal. This site covers the fundamental conc
 
 ## Course Overview
 
-### Unit I: Concepts of Hazards and Disasters
+### Unit I: Foundations of Geomorphology
 
-* [Concept of Hazards and Disasters](unit-1/concept-hazards-disasters.md)
-* [Natural and Manmade Hazards](unit-1/natural-manmade-hazards.md)
-* [Types of Hazards](unit-1/types-of-hazards.md)
-* [Concept of Vulnerability and Risk](unit-1/vulnerability-risk.md)
-* [Prevention, Mitigation, and Management](unit-1/prevention-mitigation.md)
+* [Geomorphic Processes and Landforms](unit-1/concept-hazards-disasters.md)
+* [Natural vs. Anthropogenic Influences](unit-1/natural-manmade-hazards.md)
+* [Classification of Landforms](unit-1/types-of-hazards.md)
+* [Environmental Vulnerability](unit-1/vulnerability-risk.md)
+* [Landscape Management](unit-1/prevention-mitigation.md)
 
-### Unit II: Disaster Management Cycle
+### Unit II: Landscape Evolution & Dynamics
 
-* [Pre-disaster Planning](unit-2/pre-disaster-planning.md)
-* [During Disaster Management](unit-2/during-disaster-management.md)
-* [Post-disaster Planning and Development](unit-2/post-disaster-planning.md)
-* [Community-based Disaster Preparedness](unit-2/community-preparedness.md)
+* [Geologic Time and Planning](unit-2/pre-disaster-planning.md)
+* [Active Surface Processes](unit-2/during-disaster-management.md)
+* [Post-Evolution Resilience](unit-2/post-disaster-planning.md)
+* [Community Landscape Adaptation](unit-2/community-preparedness.md)
 * [Role of Stakeholders](unit-2/stakeholders.md)
   * NGOs, GOs, NDMA, NIDM, NDRF, ODRAF, OSDMA
 
