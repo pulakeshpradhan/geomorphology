@@ -8,14 +8,14 @@ theme:
 
   palette: 
     - scheme: default
-      primary: teal
-      accent: purple
+      primary: brown
+      accent: deep orange
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     - scheme: slate
-      primary: teal
-      accent: lime
+      primary: brown
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: Switch to light mode

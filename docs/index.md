@@ -1,15 +1,15 @@
-<div class="hero-banner" style="position: relative; border-radius: 12px; overflow: hidden; margin-bottom: 2.5rem; box-shadow: 0 12px 40px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); background: #001a1a;">
+<div class="hero-banner" style="position: relative; border-radius: 12px; overflow: hidden; margin-bottom: 2.5rem; box-shadow: 0 12px 40px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); background: #2d1b14;">
     <img src="assets/images/banner.png" alt="Banner" style="width: 100%; height: 450px; object-fit: cover; filter: brightness(0.6);">
-    <div class="hero-content" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding: 50px 60px; color: white; display: flex; flex-direction: column; justify-content: center; background: linear-gradient(135deg, rgba(0,26,26,0.9) 0%, rgba(0,40,40,0.4) 100%);">
+    <div class="hero-content" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding: 50px 60px; color: white; display: flex; flex-direction: column; justify-content: center; background: linear-gradient(135deg, rgba(45,27,20,0.9) 0%, rgba(93,64,55,0.4) 100%);">
         <div class="hero-text" style="max-width: 65%;">
-            <h1 style="color: #fff; margin: 0; font-size: 3rem; font-weight: 900; line-height: 1.1; letter-spacing: -1px; text-shadow: 0 4px 12px rgba(0,0,0,0.5);">Welcome to <br><span style="color: #00f2ea; background: linear-gradient(to right, #00f2ea, #00c9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Geomorphology</span></h1>
+            <h1 style="color: #fff; margin: 0; font-size: 3rem; font-weight: 900; line-height: 1.1; letter-spacing: -1px; text-shadow: 0 4px 12px rgba(0,0,0,0.5);">Welcome to <br><span style="color: #ff9800; background: linear-gradient(to right, #ff9800, #ff5722); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Geomorphology</span></h1>
             <p style="font-size: 1.3rem; line-height: 1.6; margin-top: 20px; color: #b0bec5; font-weight: 300; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Exploring the dynamic landscape, landform evolution, and the processes shaping our Earth.</p>
         </div>
         <div class="qr-container" style="position: absolute; right: 60px; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center; gap: 15px;">
-            <div class="qr-box" style="background: white; padding: 15px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 4px solid #00f2ea;">
+            <div class="qr-box" style="background: white; padding: 15px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 4px solid #ff9800;">
                 <img src="assets/images/qr_code.png" alt="QR Code" style="width: 160px; height: 160px; display: block;">
             </div>
-            <div style="font-size: 1rem; font-weight: 600; color: #00f2ea; background: rgba(0,0,0,0.4); padding: 5px 15px; border-radius: 20px; border: 1px solid rgba(0,242,234,0.3);">SCAN TO BROWSE</div>
+            <div style="font-size: 1rem; font-weight: 600; color: #ff9800; background: rgba(0,0,0,0.4); padding: 5px 15px; border-radius: 20px; border: 1px solid rgba(255,152,0,0.3);">SCAN TO BROWSE</div>
         </div>
     </div>
 </div>
@@ -39,12 +39,12 @@ Welcome to the Geomorphology study portal. This site covers the fundamental conc
 
 ## 🤖 Geomorphology AI Assistant
 
-<div class="bot-card" style="background: linear-gradient(135deg, #001a1a 0%, #004d4d 100%); border-radius: 15px; padding: 25px; display: flex; align-items: center; gap: 20px; border: 1px solid #00f2ea; margin: 2rem 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+<div class="bot-card" style="background: linear-gradient(135deg, #2d1b14 0%, #5d4037 100%); border-radius: 15px; padding: 25px; display: flex; align-items: center; gap: 20px; border: 1px solid #ff9800; margin: 2rem 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
     <div style="font-size: 3rem;">🤖</div>
     <div>
-        <h3 style="margin: 0; color: #00f2ea;">Geomorphology Bot</h3>
+        <h3 style="margin: 0; color: #ff9800;">Geomorphology Bot</h3>
         <p style="margin: 10px 0; color: #cfd8dc;">Your personal AI guide for understanding landforms, fluvial processes, and tectonic landscapes. Ask me anything!</p>
-        <a href="#" style="display: inline-block; background: #00f2ea; color: #001a1a; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 0.9rem; transition: transform 0.2s;">CHAT NOW</a>
+        <a href="#" style="display: inline-block; background: #ff9800; color: #fff; padding: 8px 20px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 0.9rem; transition: transform 0.2s;">CHAT NOW</a>
     </div>
 </div>
 
