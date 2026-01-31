@@ -1,13 +1,15 @@
-<div class="hero-banner" style="position: relative; border-radius: 12px; overflow: hidden; margin-bottom: 2rem; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 2px solid rgba(0, 150, 136, 0.2);">
-    <img src="assets/images/banner.png" alt="Banner" style="width: 100%; height: 350px; object-fit: cover; filter: brightness(0.65);">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding: 40px; color: white; display: flex; flex-direction: column; justify-content: center; background: linear-gradient(90deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.1) 100%);">
-        <h1 style="color: #fff; margin: 0; font-size: 2.8rem; font-weight: 800; text-shadow: 2px 2px 8px rgba(0,0,0,0.5); line-height: 1.2;">Welcome to the<br><span style="color: #4db6ac;">Disaster Management Unit</span></h1>
-        <p style="font-size: 1.25rem; font-weight: 400; max-width: 60%; margin-top: 15px; color: #e0f2f1; text-shadow: 1px 1px 4px rgba(0,0,0,0.5);">Comprehensive resource for hazard concepts, mitigation strategies, and emergency rescue operations.</p>
-        <div style="margin-top: 30px; display: flex; align-items: center; gap: 20px;">
-            <div style="background: white; padding: 10px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); width: 100px; height: 100px; display: flex; align-items: center; justify-content: center;">
-                <img src="assets/images/qr_code.png" alt="QR Code" style="width: 80px; height: 80px;">
+<div class="hero-banner" style="position: relative; border-radius: 12px; overflow: hidden; margin-bottom: 2.5rem; box-shadow: 0 12px 40px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); background: #001a1a;">
+    <img src="assets/images/banner.png" alt="Banner" style="width: 100%; height: 450px; object-fit: cover; filter: brightness(0.6);">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding: 50px 60px; color: white; display: flex; flex-direction: column; justify-content: center; background: linear-gradient(135deg, rgba(0,26,26,0.9) 0%, rgba(0,40,40,0.4) 100%);">
+        <div style="max-width: 65%;">
+            <h1 style="color: #fff; margin: 0; font-size: 3rem; font-weight: 900; line-height: 1.1; letter-spacing: -1px; text-shadow: 0 4px 12px rgba(0,0,0,0.5);">Welcome to the<br><span style="color: #00f2ea; background: linear-gradient(to right, #00f2ea, #00c9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Disaster Management Unit</span></h1>
+            <p style="font-size: 1.3rem; line-height: 1.6; margin-top: 20px; color: #b0bec5; font-weight: 300; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Comprehensive resource for hazard concepts, mitigation strategies, and emergency rescue operations.</p>
+        </div>
+        <div style="position: absolute; right: 60px; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center; gap: 15px;">
+            <div style="background: white; padding: 15px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 4px solid #00f2ea;">
+                <img src="assets/images/qr_code.png" alt="QR Code" style="width: 160px; height: 160px; display: block;">
             </div>
-            <div style="font-size: 0.9rem; font-style: italic; color: #b2dfdb;">Scan to browse on<br>your mobile device</div>
+            <div style="font-size: 1rem; font-weight: 600; color: #00f2ea; background: rgba(0,0,0,0.4); padding: 5px 15px; border-radius: 20px; border: 1px solid rgba(0,242,234,0.3);">SCAN TO BROWSE</div>
         </div>
     </div>
 </div>
