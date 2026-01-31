@@ -1,7 +1,7 @@
-site_name: Disaster Management & Rescue Unit
-site_url: https://pulakeshpradhan.github.io/disaster_management/
-repo_url: https://github.com/pulakeshpradhan/disaster_management
-repo_name: pulakeshpradhan/disaster_management
+site_name: Geomorphology
+site_url: https://pulakeshpradhan.github.io/geomorphology/
+repo_url: https://github.com/pulakeshpradhan/geomorphology
+repo_name: pulakeshpradhan/geomorphology
 edit_uri: edit/main/docs/
 theme:
   name: material
@@ -35,7 +35,7 @@ extra:
 
 nav:
   - Home: index.md
-  - Unit I - Concepts:
+  - Unit I - Geomorphic Processes:
     - Introduction: unit-1/index.md
     - Concept of Hazards and Disasters: unit-1/concept-hazards-disasters.md
     - Natural and Manmade Hazards: unit-1/natural-manmade-hazards.md
@@ -43,7 +43,7 @@ nav:
     - Vulnerability and Risk: unit-1/vulnerability-risk.md
     - Prevention, Mitigation, and Management: unit-1/prevention-mitigation.md
     - 📝 Self Assessment (Questions): unit-1/questions.md
-  - Unit II - DM Cycle:
+  - Unit II - Landscape Evolution:
     - Introduction: unit-2/index.md
     - Pre-Disaster Planning: unit-2/pre-disaster-planning.md
     - During Disaster Management: unit-2/during-disaster-management.md
@@ -73,4 +73,4 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-copyright: Prepared by <a href="https://pulakeshpradhan.github.io/">Pulakesh Pradhan</a>
+copyright: Geomorphology Study Portal | Prepared by <a href="https://pulakeshpradhan.github.io/">Pulakesh Pradhan</a>
