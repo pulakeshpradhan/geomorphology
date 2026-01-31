@@ -1,11 +1,11 @@
-# Unit II: Disaster Management Cycle
+# Unit II: Landscape Evolution & Dynamics
 
 ## Introduction
 
-While Unit I focused on concepts, Unit II shifts the focus to **action**. Disaster Management is not a static event but a continuous, dynamic cycle. This unit explores the systematic process of managing disasters through three critical phases: **Pre-disaster (Preparation)**, **During-disaster (Response)**, and **Post-disaster (Recovery)**. It also emphasizes the critical role of community preparedness and the institutional framework in India.
+While Unit I focused on foundations, Unit II shifts the focus to **long-term change**. Landscape evolution is not a static state but a continuous, dynamic process. This unit explores the systematic mechanisms of landform progression through critical phases: **Erosion (Degradation)**, **Transport**, and **Deposition (Aggradation)**. It also emphasizes the role of environmental stressors and the geological framework in shaping the Earth's topography.
 
-![Disaster Management Cycle](../assets/images/dm_cycle.png)
-*Fig 1: The Disaster Management Cycle - Phases of Prevention, Response, and Recovery.*
+![Landscape Evolution](../assets/images/dm_cycle.png)
+*Fig 1: The Landscape Evolution Cycle - Processes of Degradation, Transport, and Aggradation.*
 
 ## Learning Objectives
 

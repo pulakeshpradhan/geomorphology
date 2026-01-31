@@ -1,8 +1,8 @@
-# Unit I: Concept of Hazards and Disasters
+# Unit I: Foundations of Geomorphology
 
 ## Introduction
 
-This unit serves as the foundational pillar for understanding Disaster Management. Before delving into strategies and frameworks, it is imperative to grasp the core concepts that define this field. In this unit, we explore the distinctions between hazards and disasters, map out the various types of threats we face, and analyze the underlying factors of vulnerability and risk that turn natural events into catastrophes.
+This unit serves as the foundational pillar for understanding Geomorphology. Before delving into advanced geomorphic modeling, it is imperative to grasp the core concepts of Earth's surface processes. In this unit, we explore the dynamic interaction between geological forces and climatic factors, mapping out how the landscape is continuously shaped and transformed over time.
 
 ## Learning Objectives
 
