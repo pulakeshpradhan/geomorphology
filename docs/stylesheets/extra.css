@@ -84,6 +84,10 @@
         margin-bottom: 4px;
     }
 
+    .search-trigger {
+        cursor: pointer;
+    }
+
     body {
         padding-bottom: 60px;
         /* Space for bottom nav */
