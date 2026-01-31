@@ -2,7 +2,7 @@
     <img src="assets/images/banner.png" alt="Banner" style="width: 100%; height: 450px; object-fit: cover; filter: brightness(0.6);">
     <div class="hero-content" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding: 50px 60px; color: white; display: flex; flex-direction: column; justify-content: center; background: linear-gradient(135deg, rgba(0,26,26,0.9) 0%, rgba(0,40,40,0.4) 100%);">
         <div class="hero-text" style="max-width: 65%;">
-            <h1 style="color: #fff; margin: 0; font-size: 3rem; font-weight: 900; line-height: 1.1; letter-spacing: -1px; text-shadow: 0 4px 12px rgba(0,0,0,0.5);">Welcome to the<br><span style="color: #00f2ea; background: linear-gradient(to right, #00f2ea, #00c9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Disaster Management Unit</span></h1>
+            <h1 style="color: #fff; margin: 0; font-size: 3rem; font-weight: 900; line-height: 1.1; letter-spacing: -1px; text-shadow: 0 4px 12px rgba(0,0,0,0.5);">Welcome to the<br><span style="color: #00f2ea; background: linear-gradient(to right, #00f2ea, #00c9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Disaster Management</span></h1>
             <p style="font-size: 1.3rem; line-height: 1.6; margin-top: 20px; color: #b0bec5; font-weight: 300; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Comprehensive resource for hazard concepts, mitigation strategies, and emergency rescue operations.</p>
         </div>
         <div class="qr-container" style="position: absolute; right: 60px; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center; gap: 15px;">
