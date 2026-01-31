@@ -121,13 +121,17 @@
     color: var(--md-primary-fg-color) !important;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .bottom-actions {
-        margin-bottom: 20px;
+        justify-content: center;
+        gap: 30px;
+        margin-top: 50px;
+        margin-bottom: 40px;
+        opacity: 1;
     }
-}
 
-.md-content__button {
-    margin: 0 !important;
-    padding: 0 !important;
+    .action-btn {
+        font-size: 1.2rem !important;
+        padding: 10px;
+    }
 }
