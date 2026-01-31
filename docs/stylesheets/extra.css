@@ -8,7 +8,7 @@
     .hero-banner img {
         height: 300px !important;
     }
-    
+
     .hero-content {
         padding: 30px 20px !important;
         position: relative !important;
@@ -64,7 +64,7 @@
         justify-content: space-around;
         padding: 10px 0;
         z-index: 100;
-        box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
     }
 
     .mobile-nav-item {
@@ -82,10 +82,32 @@
     }
 
     body {
-        padding-bottom: 60px; /* Space for bottom nav */
+        padding-bottom: 60px;
+        /* Space for bottom nav */
     }
 }
 
 .mobile-nav {
     display: none;
+}
+
+/* Custom Action Buttons (Source/Edit) */
+.custom-action-btn {
+    color: #757575 !important;
+    transition: color 0.3s, transform 0.2s;
+    font-size: 1.4rem !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none !important;
+}
+
+.custom-action-btn:hover {
+    color: var(--md-primary-fg-color) !important;
+    transform: scale(1.1);
+}
+
+.md-content__button {
+    margin: 0 !important;
+    padding: 0 !important;
 }
