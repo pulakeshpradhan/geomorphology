@@ -91,48 +91,59 @@
     display: none;
 }
 
-/* Custom Action Buttons (Source/Edit) */
+/* Custom Action Buttons (Geospatial Style) */
 .custom-actions-container {
     display: flex;
-    gap: 20px;
+    gap: 12px;
     justify-content: flex-end;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
     border-bottom: 1px solid var(--md-default-fg-color--lightest);
-    flex-wrap: wrap;
+    width: 100%;
 }
 
-.custom-action-btn {
-    color: #616161 !important;
-    transition: all 0.2s ease;
-    font-size: 0.85rem !important;
+.action-btn {
     display: flex !important;
     align-items: center;
     gap: 8px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 0.85rem !important;
+    font-weight: 600;
     text-decoration: none !important;
-    font-weight: 500;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
-.custom-action-btn i {
-    font-size: 1.1rem;
+.source-btn {
+    background: #f5f5f5 !important;
+    color: #424242 !important;
+    border: 1px solid #e0e0e0;
 }
 
-.custom-action-btn:hover {
-    color: var(--md-primary-fg-color) !important;
+.edit-btn {
+    background: var(--md-primary-fg-color) !important;
+    color: white !important;
 }
 
-.custom-action-btn:hover i {
-    transform: scale(1.1);
+.action-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    filter: brightness(1.05);
 }
 
-@media (max-width: 480px) {
+.action-btn i {
+    font-size: 1rem;
+}
+
+@media (max-width: 600px) {
     .custom-actions-container {
-        justify-content: flex-start;
-        gap: 15px;
+        justify-content: center;
+        flex-direction: column;
     }
 
-    .custom-action-btn span {
-        font-size: 0.75rem;
+    .action-btn {
+        justify-content: center;
     }
 }
 
