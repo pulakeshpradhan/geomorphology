@@ -94,39 +94,36 @@
     display: none;
 }
 
-/* Custom Action Buttons (Icon Only) */
-.custom-actions-container {
+/* Bottom Action Icons */
+.bottom-actions {
     display: flex;
-    gap: 15px;
+    gap: 12px;
     justify-content: flex-end;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    margin-top: 40px;
+    padding-top: 15px;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+    opacity: 0.6;
+    transition: opacity 0.3s;
+}
+
+.bottom-actions:hover {
+    opacity: 1;
 }
 
 .action-btn {
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
-    padding: 8px;
-    border-radius: 6px;
-    font-size: 1.2rem !important;
-    text-decoration: none !important;
-    transition: all 0.2s ease;
-    background: transparent;
     color: #757575 !important;
+    font-size: 0.9rem !important;
+    text-decoration: none !important;
+    transition: color 0.2s;
 }
 
 .action-btn:hover {
     color: var(--md-primary-fg-color) !important;
-    background: rgba(0, 150, 136, 0.1);
-    transform: scale(1.1);
 }
 
 @media (max-width: 600px) {
-    .custom-actions-container {
-        justify-content: flex-end;
-        /* Keep them at the end even on mobile */
+    .bottom-actions {
+        margin-bottom: 20px;
     }
 }
 
