@@ -1,4 +1,4 @@
-# Concept of Hazards, Disasters, and Risk Management: Foundations of DRR
+# Concept of Hazards, Disasters, and Risk Management: Foundations of DRR by Pulakesh Pradhan
 
 ## Introduction
 
