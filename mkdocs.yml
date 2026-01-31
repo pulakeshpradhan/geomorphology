@@ -30,9 +30,10 @@ theme:
 
 extra:
   social:
-    - icon: material/printer
-      link: "javascript:window.print()" 
-      name: Print to PDF
+    - icon: fontawesome/brands/github
+      link: https://github.com/pulakeshpradhan
+    - icon: fontawesome/solid/globe
+      link: https://pulakeshpradhan.github.io/
 
 nav:
   - Home: index.md
@@ -74,4 +75,4 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-copyright: Prepared by Pulakesh Pradhan (PhD Scholar, Ravenshaw University)
+copyright: Prepared by <a href="https://pulakeshpradhan.github.io/">Pulakesh Pradhan</a>
